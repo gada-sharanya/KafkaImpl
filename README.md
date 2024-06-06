@@ -1,4 +1,4 @@
-Apache Kafka Implementation with Spring Boot
+**Apache Kafka Implementation with Spring Boot**
 
 Configure Spring Boot application
    - Create a Rest Api End point (client sends message thru this api to the producer)
